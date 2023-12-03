@@ -59,10 +59,10 @@
   
     const ldconfig = {
       light: {
-        smallSrc: 'https://lsky.mnchen.cn/i/2023/10/24/6536faa024dfa.jpg', //浅色模式 小图链接 尽可能配置小于100k的图片 
-        largeSrc: 'https://lsky.mnchen.cn/i/2023/10/24/6536faa024dfa.jpg', //浅色模式 大图链接 最终显示的图片
-        mobileSmallSrc: 'https://lsky.mnchen.cn/i/2023/10/24/6536faa024dfa.jpg', //手机端浅色小图链接 尽可能配置小于100k的图片
-        mobileLargeSrc: 'https://lsky.mnchen.cn/i/2023/10/24/6536faa024dfa.jpg', //手机端浅色大图链接 最终显示的图片
+        smallSrc: 'https://imgapi.kouseki.cn/random?sort=pc', //浅色模式 小图链接 尽可能配置小于100k的图片 
+        largeSrc: 'https://imgapi.kouseki.cn/random?sort=pc', //浅色模式 大图链接 最终显示的图片
+        mobileSmallSrc: 'https://imgapi.kouseki.cn/random?sort=mp', //手机端浅色小图链接 尽可能配置小于100k的图片
+        mobileLargeSrc: 'https://imgapi.kouseki.cn/random?sort=mp', //手机端浅色大图链接 最终显示的图片
         enableRoutes: ['/'],
         },
       dark: {
