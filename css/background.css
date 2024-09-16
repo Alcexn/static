@@ -1,5 +1,5 @@
 body {
-    font-family: "LXGW WenKai Screen", sans-serif;
+    font-family: "LXGW WenKai Screen", sans-serif !important;
 }
 html[data-theme='light'] :root,
 html[data-theme='light'] [data-theme] {
