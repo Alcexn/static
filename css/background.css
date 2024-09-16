@@ -12,8 +12,10 @@ html[data-theme='dark'] [data-theme] {
 html[data-theme='dark'].noise body::before {
     background-image: url(https://image-review.jsdmirror.com/gh/mx-space/docs-images@master/images/chichi-1.jpeg)!important;
     opacity: 0.1;
+    background-size: cover;
 }
 html[data-theme='light'].noise body::before {
     background-image: url(https://image-review.jsdmirror.com/gh/mx-space/docs-images@master/images/chichi-1.jpeg)!important;
     opacity: 0.2;
+    background-size: cover;
 }
