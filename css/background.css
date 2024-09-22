@@ -1,27 +1,27 @@
 @font-face {
     font-family: OperatorMonoSSmLig Nerd Font;
-    src: url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff) format("woff")!important;
+    src: url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff2) format("woff2"),url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff) format("woff")!important;
     font-weight: 400;
     font-style: italic
 }
 
 @font-face {
     font-family: OperatorMonoSSmLig Nerd Font;
-    src: url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff) format("woff")!important;
+    src: url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff2) format("woff2"),url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff) format("woff")!important;
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: Operator Mono;
-    src: url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff) format("woff")!important;
+    src: url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff2) format("woff2"),url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff) format("woff")!important;
     font-weight: 400;
     font-style: italic
 }
 
 @font-face {
     font-family: Operator Mono;
-    src: url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff) format("woff")!important;
+    src: url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff2) format("woff2"),url(hhttps://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff) format("woff")!important;
     font-weight: 400;
     font-style: normal
 }
