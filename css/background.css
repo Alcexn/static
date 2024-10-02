@@ -1,21 +1,21 @@
 @font-face {
-    font-family: OperatorMonoSSmLig Nerd Font !important;
+    font-family: OperatorMonoSSmLig Nerd !important;
     src: url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff2) format("woff2"),url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff) format("woff") !important;
     font-weight: 400 !important;
     font-style: italic !important
 }
 
 .font-mono {
-  font-family: OperatorMonoSSmLig Nerd, Cascadia Code PL, FantasqueSansMono Nerd Font, operator mono, JetBrainsMono, Fira code Retina, Fira code, Consolas, Monaco, Hannotate SC, monospace, -apple-system !important
+  font-family: OperatorMonoSSmLig Nerd !important
 }
 code,kbd,pre,samp {
-    font-family: OperatorMonoSSmLig Nerd,Cascadia Code PL,FantasqueSansMono Nerd Font,operator mono,JetBrainsMono1,Fira code Retina,Fira code,Consolas,Monaco,Hannotate SC,monospace,-apple-system !important;
+    font-family: OperatorMonoSSmLig Nerd !important;
     font-feature-settings: normal;
     font-variation-settings: normal;
     font-size: 1em
 }
 .\[\&_\*\]\:\!font-mono * {
-  font-family: OperatorMonoSSmLig Nerd, Cascadia Code PL, FantasqueSansMono Nerd Font, operator mono, JetBrainsMono, Fira code Retina, Fira code, Consolas, Monaco, Hannotate SC, monospace, -apple-system !important
+  font-family: OperatorMonoSSmLig Nerd !important
 }
 @font-face {
     font-family: OperatorMonoSSmLig Nerd !important;
