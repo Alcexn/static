@@ -15,7 +15,7 @@ code,kbd,pre,samp {
     font-size: 1em
 }
 .\[\&_\*\]\:\!font-mono * {
-  font-family: OperatorMonoSSmLig Nerd Font, Cascadia Code PL, FantasqueSansMono Nerd Font, operator mono, JetBrainsMono, Fira code Retina, Fira code, Consolas, Monaco, Hannotate SC, monospace, -apple-system !important
+  font-family: OperatorMonoSSmLig Nerd, Cascadia Code PL, FantasqueSansMono Nerd Font, operator mono, JetBrainsMono, Fira code Retina, Fira code, Consolas, Monaco, Hannotate SC, monospace, -apple-system !important
 }
 @font-face {
     font-family: OperatorMonoSSmLig Nerd !important;
