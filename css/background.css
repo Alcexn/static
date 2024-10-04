@@ -1,26 +1,26 @@
 @font-face {
-    font-family: OperatorMonoSSmLig Nerd !important;
+    font-family: OperatorMonoSSmLig Font !important;
     src: url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff2) format("woff2"),url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff) format("woff") !important;
     font-weight: 400 !important;
     font-style: italic !important
 }
 @font-face {
-        font-family: 'OperatorMonoSSmLig Nerd';
+        font-family: 'OperatorMonoSSmLig Font';
         src: url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff2) format("woff2"),url(https://cdn.jsdmirror.com/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff) format("woff") !important;
         font-weight: 400;
         font-style: italic;
 }
 .font-mono {
-  font-family: OperatorMonoSSmLig Nerd !important
+  font-family: OperatorMonoSSmLig Font !important
 }
 code,kbd,pre,samp {
-    font-family: OperatorMonoSSmLig Nerd !important;
+    font-family: OperatorMonoSSmLig Font !important;
     font-feature-settings: normal;
     font-variation-settings: normal;
     font-size: 1em
 }
 .\[\&_\*\]\:\!font-mono * {
-  font-family: OperatorMonoSSmLig Nerd !important
+  font-family: OperatorMonoSSmLig Font !important
 }
 
 @font-face {
