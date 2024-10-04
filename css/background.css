@@ -11,16 +11,16 @@
         font-style: italic;
 }
 .font-mono {
-  font-family: OperatorMonoSSmLig Font !important
+  font-family: LXGW WenKai Screen !important
 }
 code,kbd,pre,samp {
-    font-family: OperatorMonoSSmLig Font !important;
+    font-family: LXGW WenKai Screen !important;
     font-feature-settings: normal;
     font-variation-settings: normal;
     font-size: 1em
 }
 .\[\&_\*\]\:\!font-mono * {
-  font-family: OperatorMonoSSmLig Font !important
+  font-family: LXGW WenKai Screen !important
 }
 
 @font-face {
