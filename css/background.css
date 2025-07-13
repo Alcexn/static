@@ -55,23 +55,23 @@ html[data-theme='dark'] [data-theme] {
     background-color: var(--fallback-b1, oklch(var(--b1) / 1));
 }
 html[data-theme='dark'].noise body::before {
-    background-image: url(https://apiserver.alcex.cn/blog_random)!important;
+    background-image: url(https://t.alcy.cc/pc)!important;
     opacity: 0.1;
     background-size: cover;
 }
 html[data-theme='light'].noise body::before {
-    background-image: url(https://apiserver.alcex.cn/blog_random)!important;
+    background-image: url(https://t.alcy.cc/pc)!important;
     opacity: 0.3;
     background-size: cover;
 }
 @media (max-width: 768px) {
 html[data-theme='dark'].noise body::before {
-    background-image: url(https://apiserver.alcex.cn/blog_random?type=pe)!important;
+    background-image: url(https://t.alcy.cc/ycy)!important;
     opacity: 0.1;
     background-size: cover;
 }
 html[data-theme='light'].noise body::before {
-    background-image: url(https://apiserver.alcex.cn/blog_random?type=pe)!important;
+    background-image: url(https://t.alcy.cc/ycy)!important;
     opacity: 0.3;
     background-size: cover;
 }
